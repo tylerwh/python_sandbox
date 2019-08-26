@@ -4,3 +4,7 @@
 # String Formatting
 
 # String Methods
+x = "hello world"
+
+# Capitalize
+print(x.capitalize())
